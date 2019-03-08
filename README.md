@@ -1,0 +1,2 @@
+# IntelliJIDEALicenseServer
+IntelliJIDEALicenseServer
